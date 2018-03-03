@@ -1,0 +1,3 @@
+[submodule "random.org-simpleclient"]
+	path = random.org-simpleclient
+	url = https://github.com/marsG/random.org-simpleclient.git
