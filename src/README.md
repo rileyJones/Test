@@ -14,5 +14,5 @@ Fixed:
   &nbsp;&nbsp;&nbsp;Designed to have each job be character specific  
 RandomThing:  
   &nbsp;&nbsp;&nbsp;Uses random.org randomness and is much slower  
-FastRandomThing:  
+RandomThingFast:  
   &nbsp;&nbsp;&nbsp;Uses pseudo-randomness and is much faster  
