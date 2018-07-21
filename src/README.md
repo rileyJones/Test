@@ -1,3 +1,4 @@
+Bravely Default:
 Multiple randomization options:  
 &nbsp;&nbsp;&nbsp;Ordered:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chooses 1 out of the first 5  
@@ -16,3 +17,23 @@ RandomThing:
   &nbsp;&nbsp;&nbsp;Uses random.org randomness and is much slower  
 RandomThingFast:  
   &nbsp;&nbsp;&nbsp;Uses pseudo-randomness and is much faster  
+
+Bravely Second:
+Multiple randomization options:  
+&nbsp;&nbsp;&nbsp;Ordered:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chooses 1 out of the first 8  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then 1 out of the first 16  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then 1 out of the first 24  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then 1 out of the first 29  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then replaces 1 of them with Freelancer with a 1/25 chance  
+  &nbsp;&nbsp;&nbsp;Weighted:  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uses the probability of ordered format, without the guarantee of anything  
+  &nbsp;&nbsp;&nbsp;Chaotic:  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chooses out of the 30 completely randomly  
+Fixed:  
+  &nbsp;&nbsp;&nbsp;Allows for the same job to come up multiple times  
+  &nbsp;&nbsp;&nbsp;Designed to have each job be character specific  
+RandomThing2Fast:  
+  &nbsp;&nbsp;&nbsp;Uses pseudo-randomness and is much faster  
+
+
