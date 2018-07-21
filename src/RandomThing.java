@@ -334,13 +334,13 @@ class SuperListener implements ActionListener {
                     output+="Templar";
                     break;
                 case 21:
-                    output+="Null21";
+                    output+="Dark Knight";
                     break;
                 case 22:
-                    output+="Null22";
+                    output+="Vampire";
                     break;
                 case 23:
-                    output+="Null23";
+                    output+="Conjurer";
                     break;
                 case 24:
                     output+="Freelancer";
