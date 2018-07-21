@@ -35,7 +35,8 @@ public class RandomThingFast {
         placement.gridy=0;
         output.add(window,placement);
         placement.gridy=1;
-        JTextField outText = new JTextField("                                 ");
+        JTextField outText = new JTextField();
+        outText.setMinimumSize(new Dimension(350,20));
         outText.setEditable(false);
         outText.setText("                                                                                                                                                     ");
         output.add(outText,placement);
