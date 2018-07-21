@@ -35,7 +35,7 @@ public class RandomThingFast {
         placement.gridy=0;
         output.add(window,placement);
         placement.gridy=1;
-        JTextField outText = new JTextField();
+        JTextField outText = new JTextField("                                 ");
         outText.setEditable(false);
         outText.setText("                                                                                                                                                     ");
         output.add(outText,placement);
@@ -298,13 +298,13 @@ class SuperListenerFast implements ActionListener {
                     output+="Templar";
                     break;
                 case 21:
-                    output+="Null21";
+                    output+="Dark Knight";
                     break;
                 case 22:
-                    output+="Null22";
+                    output+="Vampire";
                     break;
                 case 23:
-                    output+="Null23";
+                    output+="Conjurer";
                     break;
                 case 24:
                     output+="Freelancer";

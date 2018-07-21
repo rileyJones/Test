@@ -1,4 +1,4 @@
-import com.marsG.simplerandomorglib.RandomIntegerClient;
+//import com.marsG.simplerandomorglib.RandomIntegerClient;
 
 import javax.swing.*;
 import java.awt.*;
@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 public class RandomThing {
+    /*
     public static void main(String[] args){
         GridBagConstraints placement = new GridBagConstraints();
         placement.gridx=0;
@@ -392,5 +393,5 @@ class SuperListener implements ActionListener {
 
         return unfixedInterpreter(repicked);
     }
-
+//*/
 }
